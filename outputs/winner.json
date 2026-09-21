@@ -1,0 +1,18 @@
+{
+  "winner": [
+    "CAPM",
+    "Ledoit-Wolf",
+    "Maximum Sharpe"
+  ],
+  "weights": {
+    "SBIN": 0.0,
+    "HDFCBANK": 0.0,
+    "RELIANCE": 0.0,
+    "LT": 0.0,
+    "ICICIBANK": 0.2,
+    "ITC": 0.0,
+    "TCS": 0.4,
+    "INFY": 0.4,
+    "BHARTIARTL": 0.0
+  }
+}
